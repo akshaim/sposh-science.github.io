@@ -1,2 +1,3 @@
-# sposh-science.github.io
-organization website
+SPOSH
+=====
+Society for Promotion of Open Science Hardware
